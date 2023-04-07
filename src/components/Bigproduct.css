@@ -1,0 +1,28 @@
+.bigproduct{
+    margin: 15px;
+    width: 95%;
+    background: #fff;
+    padding: 23px;
+}
+.swip{
+    width: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.tit{
+    display: flex;
+    align-items: center;
+    margin: 12px 13px;
+}
+.tit h2{
+    font-size: 21px;
+    margin-right: 18px;
+}
+.tit a{
+    text-decoration: none;
+    color: #007185;
+}
+.swiper-button-prev , .swiper-button-next {
+    top: 113px!important;
+}

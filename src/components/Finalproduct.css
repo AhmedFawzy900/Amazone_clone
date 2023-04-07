@@ -1,0 +1,20 @@
+.price{
+    display: flex;
+    align-items: center;
+}
+.price .percent{
+    color: #c34c4c;
+    margin: 4px;
+    font-size: 32px;
+}
+.price .thprice{
+    padding-top: 16px;
+    text-decoration: line-through;
+    color: #999;
+}
+.more{
+    padding-top: 28px;
+}
+.blue{
+    color: #007185;
+}

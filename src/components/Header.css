@@ -1,0 +1,60 @@
+/* nav bar */
+.header{
+    background-color: #131921;
+ 
+    display: flex;
+    align-items: center;
+    height: 68px;
+    z-index: 100;
+}
+ .header .logo{
+    width:100px;
+    object-fit: contain;
+    margin:5px 20px;
+    margin-top:10px;
+}
+.search{
+display: flex;
+flex:1;
+}
+.searchIcon{
+    background-color: #cd9043;
+    padding:5px;
+    height:22px !important;
+}
+.searchInput{
+    height:12px;
+    padding: 10px;
+    border:0;
+    outline: 0;
+    width:100%;
+}
+.headerNav{
+    display: flex;
+    justify-content: space-evenly;
+}
+.headerLink{
+    color:#eee;
+    text-decoration: none;
+}
+.headerOption{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.headerOpthionOne{
+    font-size:10px;
+}
+.headerOpthionTow{
+    font-size:13px;
+    font-weight: 800;
+}
+.headerCart{
+    display: flex;
+    align-items: center;
+}
+.cartCount{
+    margin-left: 10px;
+    margin-right: 10px;
+}

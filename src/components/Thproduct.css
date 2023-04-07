@@ -1,0 +1,16 @@
+.save{
+    display: flex;
+}
+.save p{
+    margin: 0 3px;
+    margin-bottom: 9px;
+    background: #7fda69;
+    width: 81px;
+    height: 25px;
+    text-align: center;
+    padding: 2px;
+}
+.save span{
+    font-size: 14px;
+    padding-top: 4px;
+}

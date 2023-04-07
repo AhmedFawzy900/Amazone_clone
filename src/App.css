@@ -1,0 +1,26 @@
+*{
+  margin:0;
+
+}
+body{
+  background-color: rgba(239, 239, 239,1);
+}
+@media screen and (max-width:575px) {
+  .snav{
+    display: none;
+  }
+  .homeRow{
+    margin-top: -78px;
+  }
+  .ads img{
+    height: 206px;
+  }
+  .biglinks{
+    overflow: hidden;
+  }
+  .byme p{
+    color: #fff;
+    margin-left: 1px;
+    font-size: 18px;
+  }
+}

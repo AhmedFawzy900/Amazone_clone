@@ -1,0 +1,34 @@
+.snav{
+    background: #232f3e;
+    height: 38px;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    font-size: 16px;
+}
+
+
+.snav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 11px;}
+
+    @media screen and (max-width:575px) {
+        .snav{
+          display: none !important;
+        }
+        .homeRow{
+          margin-top: -78px;
+        }
+        .ads img{
+          height: 206px;
+        }
+        .biglinks{
+          overflow: hidden;
+        }
+        .byme p{
+          color: #fff;
+          margin-left: 1px;
+          font-size: 18px;
+        }
+      }

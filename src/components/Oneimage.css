@@ -1,0 +1,25 @@
+.oneimage{
+    z-index: 5;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    padding: 22px;
+    width: 274px;
+    height: 404px;
+    margin: 7px;
+}
+.oneimage img{
+    margin-bottom: 24px;
+    height: 75%;
+    object-fit: cover;
+}
+.oneimage h2{
+    margin-left: 0;
+    font-size: 21px;
+}
+.oneimage a{
+    text-decoration: none;
+    color: #007185;
+
+    
+}
