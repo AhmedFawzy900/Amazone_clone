@@ -18,7 +18,7 @@ function Login() {
         <input className='input' type="text" onChange={setuser} required />
         <label className='label'>password</label>
         <input className='input' type="password" required/>
-        <button className="button" onClick={()=>route('/')}>Sign in</button>
+        <button className="button" onClick={()=>route('/Amazone_clone/')}>Sign in</button>
         <div className='desc'>
         By continuing, you agree to Amazon's
         <span className='span'> Conditions of Use

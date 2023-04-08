@@ -23,7 +23,7 @@ console.log(cart);
       <nav className='header'>
        {console.log("header")}
         {/* logo  */}
-        <Link to="/">
+        <Link to="/Amazone_clone">
          <img className='logo' src={logo} alt='logo'/>
         </Link>
         {/* search box */}
@@ -44,14 +44,14 @@ console.log(cart);
                </div>
             </Link>
           
-            <Link to="/" className="headerLink">
+            <Link to="/Amazone_clone" className="headerLink">
                <div className="headerOption">
                 <span className='headerOpthionOne'>Returns</span>
                 <span className='headerOpthionTow'>& Orders</span>
                </div>
             </Link>
           
-            <Link to="/" className="headerLink">
+            <Link to="/Amazone_clone" className="headerLink">
                <div className="headerOption">
                 <span className='headerOpthionOne'>your</span>
                 <span className='headerOpthionTow'>prime</span>
