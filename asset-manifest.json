@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Amazone_clone/static/css/main.f430bd67.css",
-    "main.js": "/Amazone_clone/static/js/main.fe0d1f24.js",
+    "main.css": "/Amazone_clone/static/css/main.a945131e.css",
+    "main.js": "/Amazone_clone/static/js/main.f4c075ac.js",
     "static/js/787.0e50cc05.chunk.js": "/Amazone_clone/static/js/787.0e50cc05.chunk.js",
     "static/media/emptystar.png": "/Amazone_clone/static/media/emptystar.c89c15de42c1f29e4bdf.png",
     "static/media/logo.png": "/Amazone_clone/static/media/logo.e8a0520be47e38ae70ca.png",
@@ -38,12 +38,12 @@
     "static/media/lab1.jpg": "/Amazone_clone/static/media/lab1.bf129bf4a00e7b098aa6.jpg",
     "static/media/favicon.ico": "/Amazone_clone/static/media/favicon.4fe75d5f9adb18067b85.ico",
     "index.html": "/Amazone_clone/index.html",
-    "main.f430bd67.css.map": "/Amazone_clone/static/css/main.f430bd67.css.map",
-    "main.fe0d1f24.js.map": "/Amazone_clone/static/js/main.fe0d1f24.js.map",
+    "main.a945131e.css.map": "/Amazone_clone/static/css/main.a945131e.css.map",
+    "main.f4c075ac.js.map": "/Amazone_clone/static/js/main.f4c075ac.js.map",
     "787.0e50cc05.chunk.js.map": "/Amazone_clone/static/js/787.0e50cc05.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f430bd67.css",
-    "static/js/main.fe0d1f24.js"
+    "static/css/main.a945131e.css",
+    "static/js/main.f4c075ac.js"
   ]
 }
