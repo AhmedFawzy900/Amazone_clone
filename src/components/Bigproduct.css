@@ -1,8 +1,9 @@
 .bigproduct{
-    margin: 15px;
-    width: 95%;
-    background: #fff;
-    padding: 23px;
+        /* margin: 15px; */
+        margin: 15px 0px;
+        width: 88%;
+        background: #fff;
+        padding: 23px;
 }
 .swip{
     width: 100%;
@@ -24,5 +25,5 @@
     color: #007185;
 }
 .swiper-button-prev , .swiper-button-next {
-    top: 113px!important;
+    top: 50% !important;
 }

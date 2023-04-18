@@ -25,11 +25,13 @@
     background: #232f3e;
     color: #fff;
     display: flex;
-    padding-right: 97px;
-    padding-left: 97px;
-    height: 440px;
+    /* padding-right: 97px;
+    padding-left: 97px; */
+    /* height: 440px; */
+    width: 100%;
     justify-content: space-around;
     padding-top: 47px;
+    overflow:hidden;
 }
 .biglinks p{
     font-size: 19px;
@@ -74,4 +76,15 @@
 }
 .byme span{
     font-family: 'DynaPuff', cursive;
+}
+
+@media screen and (max-width:600px) {
+    .pay{
+        display:none;
+    }
+}
+@media screen and (max-width:300px) {
+    .byme{
+        flex-direction: column;
+    }
 }

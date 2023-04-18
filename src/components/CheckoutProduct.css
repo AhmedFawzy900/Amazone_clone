@@ -30,3 +30,19 @@
     height: 40px;
 
 }
+
+@media screen and (max-width:530px) {
+    .checkoutProduct{
+        flex-direction: column;
+    }
+    .img{
+        object-fit: contain;
+      width:100%;
+    }
+    .title{
+      margin-top: 10px;
+    }
+    .rate {
+     margin-bottom: 15px;
+    }
+}

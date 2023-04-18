@@ -17,8 +17,8 @@ function Bigproduct({title,sld1,sld2,sld3,sld4,sld5,sld6,sld7,sld8,sld9,sld10,sl
         </div>
     <div className='swip'>
      <Swiper
+      slidesPerView={5}
       spaceBetween={10}
-      slidesPerView={6}
       navigation
       Pagination
     >
